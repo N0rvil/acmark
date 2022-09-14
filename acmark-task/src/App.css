@@ -1,0 +1,36 @@
+.app__form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 400px;
+    height: 300px;
+    margin: 30px auto 0 auto;
+}
+
+.app__form > input {
+    margin: 5px;
+}
+
+.app__form-btn {
+    width: 100px;
+}
+
+.app__form-err {
+    height: 15px;
+    font-size: 14px;
+    color: red;
+}
+
+.app__form-mess {
+    height: 15px;
+    font-size: 14px;
+    color: green;
+}
+
+.app__table {
+    border: 1px solid black;
+    text-align: center; 
+    margin-left: auto;
+    margin-right: auto;
+}

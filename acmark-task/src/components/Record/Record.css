@@ -1,0 +1,9 @@
+.record__column {
+    border: 1px solid black;
+    font-size: 15px;
+}
+
+.record__column-header {
+    border: 1px solid black;
+    font-size: 25px;
+}
